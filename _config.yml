@@ -1,0 +1,14 @@
+layout_spectrum: 0.12585774483159184
+typography_spectrum: 0.3138233677018434
+color:
+  brandStrength: 0.06960901548154652
+  lightness: 0.8902717488817871
+  saturation: 0.38510987581685185
+  rhythmicContrast: 0.6216963252518326
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: suggested reading
